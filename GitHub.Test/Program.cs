@@ -10,7 +10,7 @@ namespace GitHub.Test
     {
         static void Main(string[] args)
         {
-            Console.Write("sss");
+            Console.Write("Bu Bir Test Projesidir.");
         }
     }
 }
